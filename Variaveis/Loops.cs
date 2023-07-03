@@ -2,12 +2,12 @@ public class Loops
 {
   public static void Main()
   {
-    // var count = 0;
-    // while (count < 10)
-    // {
-    //   Console.WriteLine("count " + count);
-    //   count++;
-    // }
+    var count = 0;
+    while (count < 10)
+    {
+      Console.WriteLine("count " + count);
+      count++;
+    }
 
     // var count = 0;
     // do
@@ -28,16 +28,16 @@ public class Loops
     //   Console.WriteLine(name);
     // }
 
-    string[] teachers = new string[] { "Joel", "Tess", "Marlene" };
-    string[] students = new string[] { "Ellie", "Joel", "Abby" };
-    foreach (var teacher in teachers)
-    {
-      Console.WriteLine("Professor: " + teacher + ". Estudante:");
-      foreach (var student in students)
-      {
-        if (teacher != student)
-          Console.WriteLine(student);
-      }
-    }
+    // string[] teachers = new string[] { "Joel", "Tess", "Marlene" };
+    // string[] students = new string[] { "Ellie", "Joel", "Abby" };
+    // foreach (var teacher in teachers)
+    // {
+    //   Console.WriteLine("Professor: " + teacher + ". Estudante:");
+    //   foreach (var student in students)
+    //   {
+    //     if (teacher != student)
+    //       Console.WriteLine(student);
+    //   }
+    // }
   }
 }
