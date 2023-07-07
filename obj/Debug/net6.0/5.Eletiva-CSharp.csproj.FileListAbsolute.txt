@@ -1,0 +1,15 @@
+/home/tlira/conteudoTrybe/Trybe-Estudos/5.Eletiva-CSharp/obj/Debug/net6.0/5.Eletiva-CSharp.csproj.AssemblyReference.cache
+/home/tlira/conteudoTrybe/Trybe-Estudos/5.Eletiva-CSharp/obj/Debug/net6.0/5.Eletiva-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/tlira/conteudoTrybe/Trybe-Estudos/5.Eletiva-CSharp/obj/Debug/net6.0/5.Eletiva-CSharp.AssemblyInfoInputs.cache
+/home/tlira/conteudoTrybe/Trybe-Estudos/5.Eletiva-CSharp/obj/Debug/net6.0/5.Eletiva-CSharp.AssemblyInfo.cs
+/home/tlira/conteudoTrybe/Trybe-Estudos/5.Eletiva-CSharp/obj/Debug/net6.0/5.Eletiva-CSharp.csproj.CoreCompileInputs.cache
+/home/tlira/conteudoTrybe/Trybe-Estudos/5.Eletiva-CSharp/bin/Debug/net6.0/5.Eletiva-CSharp
+/home/tlira/conteudoTrybe/Trybe-Estudos/5.Eletiva-CSharp/bin/Debug/net6.0/5.Eletiva-CSharp.deps.json
+/home/tlira/conteudoTrybe/Trybe-Estudos/5.Eletiva-CSharp/bin/Debug/net6.0/5.Eletiva-CSharp.runtimeconfig.json
+/home/tlira/conteudoTrybe/Trybe-Estudos/5.Eletiva-CSharp/bin/Debug/net6.0/5.Eletiva-CSharp.dll
+/home/tlira/conteudoTrybe/Trybe-Estudos/5.Eletiva-CSharp/bin/Debug/net6.0/5.Eletiva-CSharp.pdb
+/home/tlira/conteudoTrybe/Trybe-Estudos/5.Eletiva-CSharp/obj/Debug/net6.0/5.Eletiva-CSharp.dll
+/home/tlira/conteudoTrybe/Trybe-Estudos/5.Eletiva-CSharp/obj/Debug/net6.0/refint/5.Eletiva-CSharp.dll
+/home/tlira/conteudoTrybe/Trybe-Estudos/5.Eletiva-CSharp/obj/Debug/net6.0/5.Eletiva-CSharp.pdb
+/home/tlira/conteudoTrybe/Trybe-Estudos/5.Eletiva-CSharp/obj/Debug/net6.0/5.Eletiva-CSharp.genruntimeconfig.cache
+/home/tlira/conteudoTrybe/Trybe-Estudos/5.Eletiva-CSharp/obj/Debug/net6.0/ref/5.Eletiva-CSharp.dll
