@@ -1,17 +1,16 @@
-// namespace Program;
-
 public class Rocket
 {
   public string Name { get; set; }
   public decimal Price { get; set; }
-  int Fuel;
-  readonly int MaxFuel = 5000;
-  public int FuelAsPercentage
+  private int Fuel;
+  private readonly int MaxFuel = 5000;
+
+  public int FuelPercentage
   {
     get { return Fuel * 100 / MaxFuel; }
     set
     {
-      if (value > 5000 || value < 0)
+      if (value > 100 || value < 0)
         throw new ArgumentOutOfRangeException();
 
       Fuel = value * MaxFuel / 100;
@@ -20,8 +19,13 @@ public class Rocket
 
   public Rocket(string name, decimal price)
   {
+    if (string.IsNullOrEmpty(name))
+      throw new ArgumentException("Name cannot be null or empty.");
+
+    if (price < 0)
+      throw new ArgumentOutOfRangeException("Price cannot be negative.");
+
     Name = name;
     Price = price;
   }
 }
-
