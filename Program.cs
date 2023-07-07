@@ -1,18 +1,19 @@
-﻿// See https://aka.ms/new-console-template for more information
-// Console.WriteLine("Hello, World!");
+﻿class Program
+{
+  static void Main(string[] args)
+  {
+    var firstRocket = new Rocket("Apollo 11", 10);
+    var secondRocket = new Rocket("Falcon 9", 20)
+    {
+      FuelAsPercentage = 5000
+    };
 
-var rocket1 = new Rocket("Raccon");
-// var rocket2 = rocket1;
+    Trybe.Students = new string[] { "Leticia", "Silvio" };
 
-// rocket1.Name = "Apollo 11";
-// rocket2.Name = "Falcon 9";
+    Trybe.PrintStudents(); // "Leticia, Silvio"
 
-// Console.WriteLine(rocket1.Name);
-
-var number1 = 1;
-var number2 = number1;
-
-number2 = 2;
-
-Console.WriteLine(number1);
-
+    Console.WriteLine(firstRocket.Name);
+    Console.WriteLine(secondRocket.FuelAsPercentage);
+    Console.WriteLine(Trybe.NumberOfStudents);
+  }
+}
