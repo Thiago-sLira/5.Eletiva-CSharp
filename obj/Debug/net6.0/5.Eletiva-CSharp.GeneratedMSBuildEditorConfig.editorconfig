@@ -1,0 +1,16 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _5.Eletiva_CSharp
+build_property.RootNamespace = _5.Eletiva_CSharp
+build_property.ProjectDir = /home/tlira/conteudoTrybe/Trybe-Estudos/5.Eletiva-CSharp/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/tlira/conteudoTrybe/Trybe-Estudos/5.Eletiva-CSharp
+build_property._RazorSourceGeneratorDebug = 
