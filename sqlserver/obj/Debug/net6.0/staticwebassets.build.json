@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aJ8/aKg9SLfjTp5P7NJ8BaLmcaF2Wgtar+byI1e+3ew=",
+  "Source": "sqlserver",
+  "BasePath": "_content/sqlserver",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
