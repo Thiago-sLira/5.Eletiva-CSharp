@@ -3,7 +3,7 @@ using Microsoft.Extensions.DependencyInjection;
 
 public class BookTestContext : DbContext
 {
-    public virtual DbSet<Book>? Books;
+    // public virtual DbSet<Book>? Books;
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
