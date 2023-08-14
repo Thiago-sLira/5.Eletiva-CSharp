@@ -6,6 +6,9 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+// builder.Services.AddAuthorization(options => {
+//     options.AddPolicy("TrybeStudent", policy => RequireClaim("Student"));
+// });
 
 var app = builder.Build();
 
